@@ -1,0 +1,195 @@
+{
+  "themes": [
+    {
+      "theme_name": "Compliance and Security",
+      "description": "Covers topics related to regulatory compliance, security, and risk management",
+      "topics": [
+        "compliance risk",
+        "compliance audit",
+        "compliance reporting",
+        "compliance integration",
+        "compliance automation",
+        "compliance features",
+        "compliance tooling",
+        "pci dss",
+        "pci dss compliance",
+        "hipaa audit prep",
+        "hipaa compliance",
+        "hipaa reporting",
+        "hipaa validation",
+        "gdpr roadmap",
+        "soc 2 audit",
+        "soc 2 compliance",
+        "soc 2 type ii audit",
+        "cmmc",
+        "iso 27001",
+        "rto compliance",
+        "security training",
+        "healthcare security",
+        "ot security",
+        "ot/scada monitoring"
+      ]
+    },
+    {
+      "theme_name": "Product and Engineering",
+      "description": "Covers topics related to product development, engineering, and maintenance",
+      "topics": [
+        "product migration",
+        "product roadmap",
+        "product launch",
+        "product features",
+        "product gaps",
+        "product bug",
+        "product update",
+        "product expansion",
+        "product early access",
+        "product visibility",
+        "product demo",
+        "roadmap prioritization",
+        "roadmap planning",
+        "qa",
+        "qa process",
+        "qa sign-off",
+        "qa and testing"
+      ]
+    },
+    {
+      "theme_name": "Customer Support and Success",
+      "description": "Covers topics related to customer support, success, and retention",
+      "topics": [
+        "customer support",
+        "customer communication",
+        "customer churn",
+        "customer retention",
+        "customer renewals",
+        "customer feedback",
+        "customer reliability concerns",
+        "renewal risk",
+        "contract renewal",
+        "account management"
+      ]
+    },
+    {
+      "theme_name": "Infrastructure and Architecture",
+      "description": "Covers topics related to infrastructure, architecture, and reliability",
+      "topics": [
+        "infrastructure bottleneck",
+        "infrastructure deployment",
+        "infrastructure architecture",
+        "infrastructure reliability",
+        "infrastructure rebalancing",
+        "architecture gap",
+        "architecture scalability",
+        "architecture remediation",
+        "cloud infrastructure",
+        "hybrid infrastructure",
+        "backup infrastructure",
+        "disaster recovery"
+      ]
+    },
+    {
+      "theme_name": "Incident and Problem Management",
+      "description": "Covers topics related to incident management, problem management, and post-incident review",
+      "topics": [
+        "incident tracking",
+        "incident escalation",
+        "incident communication",
+        "incident review",
+        "incident post-mortem",
+        "incident root cause",
+        "incident response",
+        "incident risk",
+        "outage",
+        "outage follow-up",
+        "outage recovery",
+        "outage remediation"
+      ]
+    },
+    {
+      "theme_name": "Identity and Access Management",
+      "description": "Covers topics related to identity and access management, including authentication and authorization",
+      "topics": [
+        "identity access management",
+        "identity deployment",
+        "identity management",
+        "identity policy propagation",
+        "identity & access management",
+        "active directory",
+        "okta sso integration",
+        "okta integration",
+        "sso integration",
+        "sso configuration",
+        "sso outage",
+        "mfa policy",
+        "mfa enforcement",
+        "mfa migration",
+        "mfa failure"
+      ]
+    },
+    {
+      "theme_name": "Data Management and Analytics",
+      "description": "Covers topics related to data management, analytics, and reporting",
+      "topics": [
+        "data integrity",
+        "data retention",
+        "data retention policies",
+        "data backup",
+        "data loss",
+        "data protection",
+        "data analytics",
+        "reporting",
+        "custom reporting",
+        "compliance reporting"
+      ]
+    },
+    {
+      "theme_name": "Sales and Marketing",
+      "description": "Covers topics related to sales, marketing, and competitive analysis",
+      "topics": [
+        "sales strategy",
+        "sales process",
+        "sales alignment",
+        "competitive analysis",
+        "competitive evaluation",
+        "competitive landscape",
+        "competitive positioning",
+        "competitive intelligence",
+        "competitive displacement",
+        "competitive threat"
+      ]
+    },
+    {
+      "theme_name": "Financial and Billing",
+      "description": "Covers topics related to financial management, billing, and pricing",
+      "topics": [
+        "billing discrepancy",
+        "billing adjustment",
+        "billing dispute",
+        "pricing pressure",
+        "pricing",
+        "invoice overage",
+        "overage charges",
+        "credit request",
+        "service credits",
+        "sla credits"
+      ]
+    },
+    {
+      "theme_name": "Operations and Quality",
+      "description": "Covers topics related to operational efficiency, quality, and reliability",
+      "topics": [
+        "operations",
+        "quality",
+        "reliability",
+        "reliability engineering",
+        "technical debt",
+        "tech debt",
+        "monitoring gaps",
+        "launch readiness",
+        "estimation",
+        "sprint planning",
+        "sprint retrospective"
+      ]
+    }
+  ]
+}

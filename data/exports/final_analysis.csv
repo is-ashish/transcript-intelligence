@@ -1,0 +1,101 @@
+title,call_type,theme,sentiment,sentiment_score,churn_risk,churn_probability,risk_level
+Competitive Landscape Review,Internal,Product and Engineering,mixed-positive,3.4,0,0.021666666666666664,🟢 Low Risk
+Detect Outage - Root Cause Analysis,External,Infrastructure and Architecture,mixed-negative,2.4,1,0.99,🟡 Medium Risk
+Aegis / Summit Trust - Platform Concerns Discussion,External,Identity and Access Management,mixed-negative,2.4,1,0.98,🟡 Medium Risk
+Support Case #6977 - Brightpath Commerce Slow Backup Performance,Customer Support,Customer Support and Success,mixed-negative,2.8,1,1.0,🔴 High Risk
+Aegis / Brightpath Commerce - Detect Module Deployment,External,Infrastructure and Architecture,mixed-positive,3.9,0,0.022857142857142857,🟢 Low Risk
+Detect Outage - Escalation Bridge,Internal,Customer Support and Success,negative,1.8,1,0.99875,🔴 High Risk
+Aegis / Trailhead Marketplace - Renewal Confirmation,External,Compliance and Security,positive,4.5,0,0.0,🟢 Low Risk
+ESCALATION: Northstar Pharma - Detect Outage Impact on Compliance,Internal,Compliance and Security,mixed-negative,2.1,1,0.97875,🟡 Medium Risk
+Support Case #3536 - Stratos Cloud LogVault Integration Timeout,Customer Support,Customer Support and Success,mixed-negative,2.4,1,1.0,🔴 High Risk
+Aegis / Cobalt Software - Q2 Planning,Internal,Incident and Problem Management,mixed-positive,3.4,0,0.051428571428571435,🟢 Low Risk
+All Hands - February Wrap,External,Product and Engineering,mixed-positive,3.5,0,0.02166666666666667,🟢 Low Risk
+Aegis / Pinnacle Insurance - Detect Roadmap Review,Internal,Compliance and Security,mixed-positive,3.6,0,0.05452380952380952,🟢 Low Risk
+Detect Outage - Customer Impact Assessment,External,Incident and Problem Management,negative,1.8,1,0.99,🔴 High Risk
+Aegis / Bridgeport Health - Compliance Review,Internal,Compliance and Security,mixed-positive,4.1,0,0.0,🟢 Low Risk
+Aegis / Frostbyte AI - Product Feedback,External,Compliance and Security,mixed-positive,3.7,0,0.041428571428571426,🟢 Low Risk
+Competitive Threat Assessment - Post Outage,External,Product and Engineering,mixed-negative,2.3,1,0.96,🟡 Medium Risk
+Comply v2 - GA Deployment Plan,External,Product and Engineering,very-positive,4.7,0,0.01,🟢 Low Risk
+Detect Team - Sprint Planning,Internal,Product and Engineering,positive,4.1,0,0.011666666666666667,🟢 Low Risk
+SOC 2 Audit Preparation - Internal,Internal,Compliance and Security,mixed-positive,3.4,0,0.11017857142857142,🟡 Medium Risk
+Aegis / Blackridge Investments - HIPAA Compliance Review,Internal,Compliance and Security,very-positive,4.7,0,0.0,🟢 Low Risk
+Support Case #3615 - Nimbus Platform Custom Report Request,Customer Support,Product and Engineering,mixed-positive,3.5,0,0.03166666666666666,🟢 Low Risk
+Support Case #6539 - Steelpoint Manufacturing LDAP Sync Failures,Customer Support,Identity and Access Management,mixed-negative,2.4,1,1.0,🔴 High Risk
+Detect Outage - Post-Incident Review,Customer Support,Product and Engineering,mixed-negative,2.8,1,0.8816666666666666,🔴 High Risk
+Detect Team - Reliability Sprint Retro,Internal,Operations and Quality,very-positive,4.8,0,0.01,🟢 Low Risk
+Support Case #8811 - Blackridge Investments Custom Compliance Template,Customer Support,Compliance and Security,very-positive,4.8,0,0.06,🟢 Low Risk
+Comply v2 - Design Review,Internal,Compliance and Security,positive,4.4,0,0.0,🟢 Low Risk
+Support Case #3266 - Trailhead Marketplace Detect Alerts Not Firing,Customer Support,Incident and Problem Management,very-negative,1.4,1,1.0,🔴 High Risk
+Protect Team - Quarterly Planning,Internal,Operations and Quality,positive,4.4,0,0.01,🟢 Low Risk
+Aegis / Pineridge Systems - Q1 Business Review,Internal,Product and Engineering,very-positive,4.7,0,0.0,🟢 Low Risk
+Aegis / Helix Data - Post-Incident Review,Customer Support,Incident and Problem Management,mixed-negative,2.3,1,1.0,🔴 High Risk
+Aegis / Axiom Labs - Multi-Year Renewal,External,Compliance and Security,mixed-positive,4.2,0,0.0,🟢 Low Risk
+Support Case #1514 - Meridian Capital Granular Restore Request,Customer Support,Compliance and Security,mixed-positive,3.4,0,0.021666666666666664,🟢 Low Risk
+URGENT: Cobalt Software - Aegis Detect Dashboard Down,External,Incident and Problem Management,negative,1.8,1,1.0,🔴 High Risk
+Support Case #9279 - Summit Trust Billing Inquiry,Customer Support,Financial and Billing,mixed-positive,3.8,0,0.06166666666666667,🟢 Low Risk
+Support Case #6147 - Summit Trust Detect Alert Delays,Customer Support,Infrastructure and Architecture,mixed-negative,2.4,1,1.0,🔴 High Risk
+Aegis / Brightpath Commerce - Competitive Evaluation,External,Customer Support and Success,mixed-negative,2.6,1,0.98875,🟡 Medium Risk
+Aegis / Quantum Edge - Renewal Concerns,External,Incident and Problem Management,mixed-negative,2.4,1,1.0,🟡 Medium Risk
+Aegis / Frostbyte AI - Identity Module Setup,External,Identity and Access Management,very-positive,4.8,0,0.0,🟢 Low Risk
+Support Case #7572 - Brightpath Commerce Invoice Discrepancy,Customer Support,Financial and Billing,mixed-positive,3.7,0,0.12,🟢 Low Risk
+Aegis / Ridgeline Logistics - Identity Roadmap Discussion,External,Identity and Access Management,mixed-positive,3.4,0,0.055178571428571424,🟡 Medium Risk
+Support Case #9856 - Silverline Brands Backup Window Exceeded,Customer Support,Infrastructure and Architecture,mixed-negative,2.4,1,1.0,🔴 High Risk
+Aegis / Ironclad Financial - Account Recovery Check-in,External,Sales and Marketing,mixed-negative,2.8,1,0.888095238095238,🟡 Medium Risk
+Support Case #7615 - Crestline Wealth Group Policy Sync Delay,Customer Support,Customer Support and Success,mixed-negative,2.4,1,1.0,🔴 High Risk
+Support Case #5889 - Ridgeline Logistics Detect Latency Issues,Customer Support,Compliance and Security,mixed-negative,2.4,1,1.0,🔴 High Risk
+Support Case #3286 - Vanta Health Systems API Integration Error,Customer Support,Compliance and Security,mixed-negative,2.4,1,0.99,🔴 High Risk
+Support Case #1993 - Forge Industries Comply v2 Early Access Question,Customer Support,Compliance and Security,very-positive,4.8,0,0.01,🟢 Low Risk
+Aegis / Crestline Wealth - Account Review,Internal,Data Management and Analytics,mixed-positive,3.8,0,0.011428571428571429,🟢 Low Risk
+Aegis / Vanta Health Systems - Backup Strategy Workshop,External,Compliance and Security,very-positive,4.7,0,0.02875,🟢 Low Risk
+Support Case #2638 - Pineridge Systems CloudPrime S3 Backup Connector,Customer Support,Customer Support and Success,mixed-positive,3.9,0,0.03166666666666666,🟢 Low Risk
+Comply v2 - Launch Readiness Review,Internal,Compliance and Security,mixed-positive,3.6,0,0.022857142857142857,🟢 Low Risk
+Aegis / Meridian Capital - Service Reliability Discussion,External,Incident and Problem Management,mixed-negative,2.4,1,1.0,🟡 Medium Risk
+Comply v2 - Adoption Metrics Review,Internal,Compliance and Security,very-positive,4.7,0,0.0,🟢 Low Risk
+URGENT: Blackridge Investments - Complete Loss of Threat Visibility,External,Incident and Problem Management,very-negative,1.6,1,0.99,🔴 High Risk
+Aegis / Clearwater Medical - Comply v2 Deployment Kickoff,External,Compliance and Security,very-positive,4.8,0,0.0,🟢 Low Risk
+Aegis / Ironworks Corp - Vendor Comparison Discussion,External,Compliance and Security,mixed-negative,2.6,1,0.99875,🟡 Medium Risk
+Detect Team - Sprint Planning,Internal,Operations and Quality,mixed-positive,3.6,0,0.011666666666666667,🟢 Low Risk
+Aegis / Crestline Wealth - Identity Module Deployment,External,Compliance and Security,very-positive,4.8,0,0.0,🟢 Low Risk
+All Hands - April Update,External,Product and Engineering,mixed-positive,3.6,0,0.032857142857142856,🟢 Low Risk
+Aegis / Keystone Health - Renewal Planning,Internal,Product and Engineering,positive,4.4,0,0.0,🟢 Low Risk
+Aegis / Blackridge Investments - Renewal Discussion,External,Compliance and Security,very-positive,4.7,0,0.0,🟢 Low Risk
+Aegis / Stratos Cloud - Audit Preparation,External,Compliance and Security,very-positive,4.7,0,0.0,🟢 Low Risk
+SOC 2 Type II - Final Review,Internal,Compliance and Security,very-positive,4.7,0,0.0,🟢 Low Risk
+Weekly Engineering Standup,Internal,Incident and Problem Management,mixed-positive,3.5,0,0.06142857142857142,🟢 Low Risk
+Aegis / Nova Retail Group - Renewal Discussion,External,Compliance and Security,mixed-negative,2.6,1,0.99875,🟡 Medium Risk
+Aegis / Silverline Brands - Comply v2 Early Access Demo,External,Compliance and Security,very-positive,4.8,0,0.0,🟢 Low Risk
+Identity Team - Q2 Roadmap,Internal,Compliance and Security,positive,4.4,0,0.0,🟢 Low Risk
+INCIDENT: Detect Pipeline Failure - War Room,Customer Support,Incident and Problem Management,negative,1.8,1,0.96,🔴 High Risk
+Aegis / Atlas Precision - Annual Review & Renewal,Internal,Compliance and Security,positive,4.3,0,0.0,🟢 Low Risk
+Support Case #8749 - Coastal Living Co SAML Certificate Rotation Bug,Customer Support,Product and Engineering,mixed-negative,2.2,1,0.99,🔴 High Risk
+Support Case #7570 - Silverline Brands Comply v2 License Upgrade,Customer Support,Financial and Billing,mixed-positive,3.9,0,0.02166666666666667,🟢 Low Risk
+Detect Outage - Remediation Plan Review,Internal,Incident and Problem Management,mixed-negative,2.4,1,0.9080952380952381,🟡 Medium Risk
+Aegis / Redwood Clinical - Product Feedback Session,External,Compliance and Security,mixed-positive,3.2,0,0.011428571428571429,🟢 Low Risk
+Aegis / Coastal Living Co - Protect Module Expansion,External,Data Management and Analytics,very-positive,4.8,0,0.0,🟢 Low Risk
+Aegis / Northstar Pharma - Urgent: Detect Outage Impact,External,Incident and Problem Management,mixed-negative,2.1,1,1.0,🟡 Medium Risk
+Support Case #3546 - Meridian Capital SCIM Provisioning Request,Customer Support,Identity and Access Management,mixed-positive,3.7,0,0.011666666666666667,🟢 Low Risk
+Support Case #3296 - Pinnacle Insurance Comply v2 Report Formatting Issue,Customer Support,Compliance and Security,mixed-positive,3.4,0,0.02166666666666667,🟢 Low Risk
+Support Case #3103 - Silverline Brands Detect False Positives After Patch,Customer Support,Incident and Problem Management,mixed-negative,2.4,1,0.9916666666666666,🔴 High Risk
+Competitive Response Strategy,External,Sales and Marketing,mixed-positive,3.6,0,0.075,🟢 Low Risk
+Support Case #8179 - Clearwater Medical Overage Charges Dispute,Customer Support,Financial and Billing,mixed-negative,2.4,1,1.0,🔴 High Risk
+Support Case #1750 - Vanta Health Systems SIEM Connector Issue,Customer Support,Product and Engineering,mixed-negative,2.4,1,1.0,🔴 High Risk
+Identity Team - Sprint Retro,Internal,Operations and Quality,mixed-positive,3.4,0,0.07666666666666667,🟡 Medium Risk
+Aegis / Forge Industries - PCI DSS Compliance Review,Internal,Compliance and Security,mixed-positive,4.1,0,0.0,🟢 Low Risk
+Support Case #6573 - Ridgeline Logistics Detect Data Gaps,Customer Support,Compliance and Security,mixed-negative,2.1,1,0.98,🔴 High Risk
+Aegis / Bridgeport Health - Renewal Finalization,External,Compliance and Security,mixed-positive,4.1,0,0.0,🟢 Low Risk
+Aegis / Harborview Banking - Threat Detection Tuning,External,Data Management and Analytics,mixed-positive,3.9,0,0.06160714285714285,🟢 Low Risk
+Aegis / Steelpoint Manufacturing - Contract Review,Internal,Compliance and Security,mixed-negative,2.8,1,0.9370833333333334,🟡 Medium Risk
+Support Case #7537 - Forge Industries Detect Recovery Confirmation,Customer Support,Incident and Problem Management,mixed-positive,3.4,0,0.013095238095238096,🟢 Low Risk
+Aegis / Atlas Precision - Contract Discussion,External,Financial and Billing,mixed-positive,3.7,0,0.02166666666666667,🟢 Low Risk
+Support Case #3677 - Coastal Living Co MFA Token Failures,Customer Support,Identity and Access Management,mixed-negative,2.2,1,0.9916666666666666,🔴 High Risk
+Aegis / Coastal Living Co - Onboarding Kickoff,External,Compliance and Security,very-positive,4.9,0,0.0,🟢 Low Risk
+Win/Loss Analysis - Q1,External,Sales and Marketing,mixed-negative,2.4,1,0.99,🟡 Medium Risk
+Product Sync - Identity Roadmap,Internal,Product and Engineering,mixed-positive,3.8,0,0.012857142857142855,🟢 Low Risk
+Comply v2 - Launch Day Checklist,External,Compliance and Security,very-positive,4.8,0,0.0,🟢 Low Risk
+Detect Reliability - 30-Day Review,Internal,Compliance and Security,mixed-negative,2.8,1,0.8732738095238096,🟡 Medium Risk
+Aegis / Redwood Clinical - ISO 27001 Preparation,External,Compliance and Security,very-positive,4.8,0,0.0,🟢 Low Risk
+Aegis / Maplewood Goods - SOC 2 Prep Review,Internal,Compliance and Security,very-positive,4.8,0,0.01,🟢 Low Risk
+Protect Performance - Scalability Concerns,External,Infrastructure and Architecture,mixed-negative,2.2,1,1.0,🟡 Medium Risk
+Weekly Engineering Standup,Internal,Operations and Quality,mixed-positive,3.6,0,0.02166666666666667,🟢 Low Risk
+Aegis / Nimbus Platform - Comply v2 Preview,Internal,Compliance and Security,very-positive,4.8,0,0.0,🟢 Low Risk
+Support Case #6635 - Nova Retail Group SSO Login Failures,Customer Support,Incident and Problem Management,mixed-negative,2.3,1,0.99,🔴 High Risk

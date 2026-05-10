@@ -1,0 +1,15 @@
+langchain
+langchain-anthropic
+langchain-tavily
+anthropic
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyter
+python-dotenv
+tqdm
+scikit-learn
+transformers
+groq
